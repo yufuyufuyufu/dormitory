@@ -1,17 +1,14 @@
-Describe what changes this pull request brings
+请描述此拉取请求带来的变化
 
-Describe any additional changes
+请描述任何其他更改
 
-Steps to test
+测试步骤
 
-Screenshots
+截图
 
-Checklist
+检查表：
+1. 我已经测试过了一切，一切都很好
+2. 我在其他浏览器中测试了这些更改
+3. 我已经检查了所有断点上的这些更改
 
-1. I've tested everything and everything works well
-2. I've tested these changes in other browsers
-3. I've checked these changes on all breakpoints
- 
-TODO
-
-References
+参考资料
