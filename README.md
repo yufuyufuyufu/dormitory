@@ -23,6 +23,7 @@
 ## 本地部署
 + 本系统将采用java作为开发语言
 + 将使用框架spring MVC、hibernate、spring、easyui进行开发
+    + 正在进行中
 + 后台的数据库将采用MySql
 
 ## 项目核心成员
